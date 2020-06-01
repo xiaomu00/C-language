@@ -67,6 +67,9 @@
   <ItemGroup>
     <ClCompile Include="test_20.5.22.c" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="f.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
